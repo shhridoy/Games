@@ -6,7 +6,7 @@
 
 ## ScreenShoots
 <p align="center">
-<img src="https://github.com/shhridoy/Games/blob/master/game_screenshoot.png"?raw="true">
+<img src="https://github.com/shhridoy/Games/blob/master/game_screenshoot.png"?raw="true" width="50%" height="50%">
 </p>
 
 ### Tutorial Link
